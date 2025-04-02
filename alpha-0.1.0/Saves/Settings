@@ -1,0 +1,13 @@
+﻿{
+  "RussianVoice": "",
+  "EnglishVoice": "",
+  "SelectedMicrophone": {
+    "Name": "",
+    "Number": -1,
+    "SampleRate": 0,
+    "Channels": 0
+  },
+  "ModelPath": "",
+  "RequiredPercentageOfCompliance": 70,
+  "AutoStartAssistant": false
+}
