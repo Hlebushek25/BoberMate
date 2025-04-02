@@ -1,0 +1,98 @@
+﻿{
+  "CoinCommandsDictionary": {
+    "Монетка": {
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "подбрось монетку",
+        "орёл или решка"
+      ],
+      "Answer": ""
+    }
+  },
+  "CubeCommandsDictionary": {
+    "Кубик": {
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "брось кубик",
+        "к6",
+        "д6"
+      ],
+      "Answer": "Бросаю"
+    }
+  },
+  "TranslateCommandsDictionary": {
+    "Перевод": {
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "переведи"
+      ],
+      "Answer": ""
+    }
+  },
+  "ReadTheTextCommandsDictionary": {
+    "Повторюшка)": {
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "зачитай",
+        "повтори",
+        "повтори за мной",
+        "скажи"
+      ],
+      "Answer": ""
+    }
+  },
+  "PauseCommandsDictionary": {
+    "Пауза": {
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "поставь на паузу",
+        "пауза",
+        "убери паузу",
+        "включай дальше"
+      ],
+      "Answer": "Хорошо"
+    }
+  },
+  "CalculateCommandsDictionary": {
+    "Калькулятор": {
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "посчитай"
+      ],
+      "Answer": ""
+    }
+  },
+  "LaunchCommandsDictionary": {
+    "ШРИФТЫЫЫЫЫЫЫЫ": {
+      "PathsToProgram": [
+        "Onest.ttf"
+      ],
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "памагите",
+        "оно меня сожрёт"
+      ],
+      "Answer": "удачи...."
+    },
+    "Блокнот": {
+      "PathsToProgram": [
+        "C:\\Windows\\System32\\notepad.exe"
+      ],
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "открой блокнот",
+        "запусти блокнот"
+      ],
+      "Answer": "Запускаю"
+    }
+  },
+  "CodeCommandsDictionary": {
+    "эх...": {
+      "ColorCode": "#6D6F78",
+      "ActivationWords": [
+        "как так"
+      ],
+      "Answer": "Даже не знаю..."
+    }
+  }
+}

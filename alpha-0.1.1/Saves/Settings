@@ -1,0 +1,13 @@
+﻿{
+  "RussianVoice": "Microsoft Irina Desktop",
+  "EnglishVoice": "Microsoft Zira Desktop",
+  "SelectedMicrophone": {
+    "Name": "Microphone (Realtek(R) Audio)",
+    "Number": 0,
+    "SampleRate": 48000,
+    "Channels": 2
+  },
+  "ModelPath": "C:\\Users\\Hlebushek2187\\source\\repos\\Linkchevsky\\BoberMateProject\\BoberMate\\bin\\Release\\Models\\vosk-model-small-ru-0.22",
+  "RequiredPercentageOfCompliance": 70,
+  "AutoStartAssistant": false
+}
