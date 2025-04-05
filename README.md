@@ -41,5 +41,5 @@ BoberMate - это программа для голосового управле
 - [Instagram](https://www.instagram.com/bober.mate/)
 
 ---
-**Разработка:** *Link*<br>
-**UX/UI:** *Hlebushek2187*
+**Разработка:** *[Link](https://discord.gg/3ZcPVjKA7g)*<br>
+**UX/UI:** *[Hlebushek2187](https://t.me/hlebushek_inc)*
