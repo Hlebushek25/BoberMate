@@ -76,7 +76,7 @@
     },
     "Блокнот": {
       "PathsToProgram": [
-        "C:\\Windows\\System32\\notepad.exe"
+        "c:\\windows\\system32\\notepad.exe"
       ],
       "ColorCode": "#6D6F78",
       "ActivationWords": [
